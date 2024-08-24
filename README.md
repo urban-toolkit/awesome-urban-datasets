@@ -48,14 +48,14 @@ This list is constantly being updated. Contributions are greatly appreciated.
 ### Traffic & transit
 
 - [UTD19](https://utd19.ethz.ch/): Largest multi-city traffic dataset publicly available.
-- [NYC Taxi](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page): TLC Trip Record Data.
-- [Chicago Taxi](https://data.cityofchicago.org/Transportation/Taxi-Trips-2013-2023-/wrvz-psew/about_data): Chicago Taxi trips.
-- [NYC Shared Bike](https://www.citibikenyc.com/system-data):
-- [Washington Shared Bike](https://www.capitalbikeshare.com/system-data)
-- [Boston Shared Bike](https://s3.amazonaws.com/hubway-data/index.html)
-- [Guangzhou, China Urban Traffic Speed](https://zenodo.org/record/1205229)
-- [US Census Commuting Flow](https://www.census.gov/topics/employment/commuting/guidance/flows.html):
-- [Sao Paulo Commuting Flow](https://transparencia.metrosp.com.br/dataset/pesquisa-origem-e-destino): 
+- [NYC Taxi](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page): Trip records from all yellow and green taxis in New York City. It includes detailed information such as pickup and drop-off locations, dates, times, fares, and driver-reported passenger counts.
+- [Chicago Taxi](https://data.cityofchicago.org/Transportation/Taxi-Trips-2013-2023-/wrvz-psew/about_data): Taxi trips in Chicago from 2013 to the present, including data on trip start and end times, locations, distance traveled, and fare details.
+- [NYC Shared Bike](https://www.citibikenyc.com/system-data): Detailed records of bike-sharing activities in New York City, including information on station locations, trip durations, and user demographics.
+- [Washington Shared Bike](https://www.capitalbikeshare.com/system-data): Bike-sharing usage in Washington, D.C., featuring data on trip origins and destinations, durations, and bike availability at docking stations.
+- [Boston Shared Bike](https://s3.amazonaws.com/hubway-data/index.html): Detailed records of bike-sharing trips in Boston, including information on start and end times, trip durations, and the geographic distribution of bike docks.
+- [Guangzhou, China Urban Traffic Speed](https://zenodo.org/record/1205229): Traffic speed data across the urban areas of Guangzhou, China
+- [US Census Commuting Flow](https://www.census.gov/topics/employment/commuting/guidance/flows.html): Commuting flow data, showing the movement of workers between home and workplace locations across various geographic levels.
+- [Sao Paulo Commuting Flow](https://transparencia.metrosp.com.br/dataset/pesquisa-origem-e-destino): Commuting patterns in Sao Paulo, Brazil.
 
 ### Noise & sound propagation
 
