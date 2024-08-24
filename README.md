@@ -37,7 +37,8 @@ This list is constantly being updated. Contributions are greatly appreciated.
 
 ### Sunlight access & shadow
 
-- [Shadows](https://github.com/ViDA-NYU/shadow-accrual-maps): Detailed shadow information in multiple cities.
+- [Shadows Accrual Maps](https://github.com/ViDA-NYU/shadow-accrual-maps): Detailed shadow information in multiple cities.
+- [Deep Umbra](https://urbantk.org/shadows/): Comprehensive dataset with the sunlight access information for more than 100 cities across six continents of the world.
 
 ### Flooding
 
