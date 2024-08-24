@@ -1,4 +1,4 @@
-# Interesting Urban Datasets
+# Awesome Urban Datasets
 
 This is a curated list of publicly available urban datasets, gathered over the years. The datasets are divided by their broad topic (natural phenomena, human-driven phenomena, build environment, others), using the same approach as the one used in our [survey of 3D urban analytics](https://urbantk.org/survey-3d/). In each topic, you will find datasets with different types (e.g., timeseries, images, audio) and sizes.
 
