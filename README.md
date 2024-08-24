@@ -14,21 +14,22 @@ This list is constantly being updated. Contributions are greatly appreciated.
 ## Table of Contents
 
 1. [Natural phenomena](#natural-phenomena)
-  1. [Sunlight access & shadow](#sunlight-access--shadow)
-  2. [Flooding](#flooding)
+   1. [Sunlight access & shadow](#sunlight-access--shadow)
+   2. [Flooding](#flooding)
 2. [Human-driven phenomena](#human-driven-phenomena)
-  1. [Traffic & transit](#traffic--transit)
-  2. [Noise & sound propagation](#noise--sound-propagation)
-  3. [Pollution](#pollution)
-  4. [Crime](#crime)
-  5. [Sanitation](#sanitation)
-  6. [Service requests](#service-requests)
+   1. [Traffic & transit](#traffic--transit)
+   2. [Noise & sound propagation](#noise--sound-propagation)
+   3. [Pollution](#pollution)
+   4. [Crime](#crime)
+   5. [Sanitation](#sanitation)
+   6. [Service requests](#service-requests)
 3. [Built & natural environment](#built--natural-environment)
-  1. [Roads & sidewalks](#roads--sidewalks)
-  2. [Natural environment](#natural-environment)
-  3. [Buildings & lots](#buildings--lots)
+   1. [Roads & sidewalks](#roads--sidewalks)
+   2. [Natural environment](#natural-environment)
+   3. [Buildings & lots](#buildings--lots)
 4. [Others](#others)
 5. [Links](#links)
+
 
 ***
 
@@ -108,3 +109,5 @@ This list is constantly being updated. Contributions are greatly appreciated.
 ## Links
 
 This list includes datasets from other compilations, but it specifically focuses on urban data. Other lists include [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets), [Awesome Spatial Data](https://github.com/bchapuis/awesome-spatial-data), [Awesome Multimodal Urban Computing](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing#taxonomy-and-summary-of-open-sourced-dataset), [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis?tab=readme-ov-file#datasets), [Free GIS Data](https://freegisdata.rtwilson.com/).
+
+
