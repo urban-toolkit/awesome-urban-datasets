@@ -78,6 +78,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 
 ### Service requests
 - [NYC 311 Service Requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data): Requests to the city's complaint service from 2010 to the present.
+- [Chicago 311 Service Requests](https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy): 311 Service Requests received by the City of Chicago.
 
 ## Built & natural environment
 
