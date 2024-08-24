@@ -10,6 +10,8 @@ The main goal of this list is to offer a straightforward way to discover urban d
 
 This list is constantly being updated. Contributions are greatly appreciated.
 
+![Static Badge](https://img.shields.io/badge/No.%20datasets-32-brightgreen)
+
 ***
 ## Table of Contents
 
