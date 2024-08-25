@@ -19,7 +19,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
    1. [Sunlight access & shadow](#sunlight-access--shadow)
    2. [Flooding](#flooding)
 2. [Human-driven phenomena](#human-driven-phenomena)
-   1. [Traffic & transit](#traffic--transit)
+   1. [Mobility](#mobility)
    2. [Noise & sound propagation](#noise--sound-propagation)
    3. [Pollution](#pollution)
    4. [Crime](#crime)
@@ -48,7 +48,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 
 ## Human-driven phenomena
 
-### Traffic & transit
+### Mobility
 
 - [UTD19](https://utd19.ethz.ch/): Largest multi-city traffic dataset publicly available.
 - [NYC Taxi](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page): Trip records from all yellow and green taxis in New York City. It includes detailed information such as pickup and drop-off locations, dates, times, fares, and driver-reported passenger counts.
@@ -59,6 +59,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 - [Guangzhou, China Urban Traffic Speed](https://zenodo.org/record/1205229): Traffic speed data across the urban areas of Guangzhou, China
 - [US Census Commuting Flow](https://www.census.gov/topics/employment/commuting/guidance/flows.html): Commuting flow data, showing the movement of workers between home and workplace locations across various geographic levels.
 - [Sao Paulo Commuting Flow](https://transparencia.metrosp.com.br/dataset/pesquisa-origem-e-destino): Commuting patterns in Sao Paulo, Brazil.
+- [COVID19USFlows](https://github.com/GeoDS/COVID19USFlows): Multiscale Dynamic Human Mobility Flow Dataset in the U.S. during the COVID-19 Epidemic.
 
 ### Noise & sound propagation
 
