@@ -10,7 +10,7 @@ The main goal of this list is to offer a straightforward way to discover urban d
 
 This list is constantly being updated. Contributions are greatly appreciated.
 
-![Static Badge](https://img.shields.io/badge/No.%20datasets-33-brightgreen)
+![Static Badge](https://img.shields.io/badge/No.%20datasets-34-brightgreen)
 
 ***
 ## Table of Contents
@@ -60,6 +60,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 - [US Census Commuting Flow](https://www.census.gov/topics/employment/commuting/guidance/flows.html): Commuting flow data, showing the movement of workers between home and workplace locations across various geographic levels.
 - [Sao Paulo Commuting Flow](https://transparencia.metrosp.com.br/dataset/pesquisa-origem-e-destino): Commuting patterns in Sao Paulo, Brazil.
 - [COVID19USFlows](https://github.com/GeoDS/COVID19USFlows): Multiscale Dynamic Human Mobility Flow Dataset in the U.S. during the COVID-19 Epidemic.
+- [StreetAware](https://ultraviolet.library.nyu.edu/records/q1byv-qc065): A high-resolution audio, video, and LiDAR dataset of three urban intersections in Brooklyn, New York, totaling approximately 8 unique hours.
 
 ### Noise & sound propagation
 
