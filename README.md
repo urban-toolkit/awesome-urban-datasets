@@ -10,7 +10,7 @@ The main goal of this list is to offer a straightforward way to discover urban d
 
 This list is constantly being updated. Contributions are greatly appreciated.
 
-![Static Badge](https://img.shields.io/badge/No.%20datasets-35-brightgreen)
+![Static Badge](https://img.shields.io/badge/No.%20datasets-53-brightgreen)
 
 ***
 ## Table of Contents
@@ -104,6 +104,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 - [Global Streetscapes](https://github.com/ualsg/global-streetscapes): Global Streetscapes is an open dataset made up of 10 million Street View Images (SVIs) spanning 688 cities from 212 countries and regions, crowdsourced from Mapillary and KartaView
 - [Project Sidewalk](https://sidewalk-chicago.cs.washington.edu/api): Point-level information on what accessibility attributes exist and where, and value that indicates how (in)accessible a given street/area is.
 - [A century of sprawl in the United States](https://datadryad.org/stash/dataset/doi:10.5061/dryad.3k502): High-resolution time series of urban sprawl, as measured through street network connectivity, in the United States from 1920 to 2012.
+- [Project Sidewalk](https://sidewalk-chicago.cs.washington.edu/api): Point-level information on what accessibility attributes exist and where (latitude-longitude).
 
 ### Natural environment
 
