@@ -45,6 +45,8 @@ This list is constantly being updated. Contributions are greatly appreciated.
 ### Flooding
 
 - [European Flood 2013 Dataset](https://github.com/cvjena/eu-flood-dataset): This repository contains metadata and annotations of a flood dataset used in the context of interactive content-based image retrieval.
+- [Flooding Complaints to 311](https://data.cityofchicago.org/Service-Requests/Flooding-Complaints-to-311/qrmr-m89j/about_data): 311 flooding complaints received by the City of Chicago.
+- [Smart Green Infrastructure Monitoring Sensors - Historical](https://data.cityofchicago.org/Environment-Sustainable-Development/Smart-Green-Infrastructure-Monitoring-Sensors-Hist/ggws-77ih/about_data): Results from a 2017-2018 project of city-installed sensors measuring water runoff from streets and sidewalks.
 
 ## Human-driven phenomena
 
@@ -62,6 +64,14 @@ This list is constantly being updated. Contributions are greatly appreciated.
 - [COVID19USFlows](https://github.com/GeoDS/COVID19USFlows): Multiscale Dynamic Human Mobility Flow Dataset in the U.S. during the COVID-19 Epidemic.
 - [StreetAware](https://ultraviolet.library.nyu.edu/records/q1byv-qc065): A high-resolution audio, video, and LiDAR dataset of three urban intersections in Brooklyn, New York, totaling approximately 8 unique hours.
 - [CCTV Action Recognition Dataset](https://www.kaggle.com/datasets/jonathannield/cctv-action-recognition-dataset): This action recognition dataset contains short video clips sourced from CCTV footage from existing CCTV datasets as well as YouTube and Google.
+- [Traffic Crashes - Crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data): Crash data shows information about each traffic crash on city streets within the City of Chicago limits and under the jurisdiction of Chicago Police Department (CPD).
+- [Traffic Crashes - People](https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d/about_data): This data contains information about people involved in a crash and if any injuries were sustained. This dataset should be used in combination with the traffic Crash and Vehicle dataset.
+- [Traffic Crashes - Vehicle](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3/about_data): This dataset contains information about vehicles (or units as they are identified in crash reports) involved in a traffic crash. This dataset should be used in conjunction with the traffic Crash and People datasets.
+- [Towed Vehicles](https://data.cityofchicago.org/Transportation/Towed-Vehicles/ygr5-vcbg/about_data): This dataset displays location for vehicles that have been towed and impounded by the City of Chicago within the last 90 days.
+- [Red Light Camera Violations](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37/about_data): This dataset reflects the daily volume of violations created by the City of Chicago Red Light Program for each camera.
+- [Speed Camera Violations](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4/about_data): This dataset reflects the daily volume of violations that have occurred in Children's Safety Zones for each camera.
+- [Chicago Traffic Tracker - Congestion Estimates by Segments](https://data.cityofchicago.org/Transportation/Chicago-Traffic-Tracker-Congestion-Estimates-by-Se/n4j6-wkkf/about_data): This dataset contains the current estimated speed for about 1250 segments covering 300 miles of arterial roads.
+- 
 
 ### Noise & sound propagation
 
@@ -76,6 +86,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 ### Crime
 
 - [Crime data in Brazil](https://www.kaggle.com/inquisitivecrow/crime-data-in-brazil): This dataset contains structured data about all crime occurrences that have been acted upon by the PM, the main police force in Sao Paulo.
+- [Crimes - 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data): This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days.
 
 ### Sanitation
 
@@ -105,6 +116,10 @@ This list is constantly being updated. Contributions are greatly appreciated.
 - [OpenStreetMap](http://www.geofabrik.de/data/download.html): Crowdsourced data for buildings, roads, etc.
 - [CMP Facade](http://cmp.felk.cvut.cz/~tylecr1/facade/): Dataset focused on facade segmentation.
 - [Toxic Release Inventory Facilities](https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools): The Toxics Release Inventory (TRI) Program tracks the industrial management of toxic chemicals that may cause harm to human health and the environment.
+- [CDPH Environmental Records Lookup Table](https://data.cityofchicago.org/Environment-Sustainable-Development/CDPH-Environmental-Records-Lookup-Table/a9u4-3dwb/about_data): This dataset serves as a lookup table to determine if environmental records exist in a Chicago Department of Public Health (CDPH) environmental dataset for a given address.
+- [Building Violations](https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr/about_data): Violations issued by the Department of Buildings from 2006 to the present.
+- [Energy Usage 2010](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp/about_data): Displays several units of energy consumption for households, businesses, and industries in the City of Chicago during 2010.
+- [Chicago Energy Benchmarking - 2020 Data Reported in 2021](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking-2020-Data-Reported-in-/ydbk-8hi6/about_data): The Chicago Building Energy Use Benchmarking Ordinance calls on existing municipal, commercial, and residential buildings larger than 50,000 square feet to track whole-building energy use, report to the City annually, and verify data accuracy every three years.
 
 ## Others
 
