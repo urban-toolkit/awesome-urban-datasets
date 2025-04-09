@@ -71,7 +71,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 - [Red Light Camera Violations](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Violations/spqx-js37/about_data): This dataset reflects the daily volume of violations created by the City of Chicago Red Light Program for each camera.
 - [Speed Camera Violations](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4/about_data): This dataset reflects the daily volume of violations that have occurred in Children's Safety Zones for each camera.
 - [Chicago Traffic Tracker - Congestion Estimates by Segments](https://data.cityofchicago.org/Transportation/Chicago-Traffic-Tracker-Congestion-Estimates-by-Se/n4j6-wkkf/about_data): This dataset contains the current estimated speed for about 1250 segments covering 300 miles of arterial roads.
-- 
+- [Traffic Crashes - Vision Zero Chicago Traffic Fatalities](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vision-Zero-Chicago-Traffic-Fatali/gzaz-isa6/about_data): Traffic fatalities within the City of Chicago that are included in Vision Zero Chicago (VZC) statistics.
 
 ### Noise & sound propagation
 
