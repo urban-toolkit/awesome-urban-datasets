@@ -122,6 +122,9 @@ This list is constantly being updated. Contributions are greatly appreciated.
 - [Energy Usage 2010](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp/about_data): Displays several units of energy consumption for households, businesses, and industries in the City of Chicago during 2010.
 - [Chicago Energy Benchmarking - 2020 Data Reported in 2021](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking-2020-Data-Reported-in-/ydbk-8hi6/about_data): The Chicago Building Energy Use Benchmarking Ordinance calls on existing municipal, commercial, and residential buildings larger than 50,000 square feet to track whole-building energy use, report to the City annually, and verify data accuracy every three years.
 
+### Perception
+- [Street Perception Evaluation Considering Socioeconomics (SPECS)](https://github.com/matqr/specs): SPECS is a global open dataset with pairwise comparisons ratings, on 400 SVI from 5 countries, across 10 perceptual indicators (safe, lively, wealthy, beautiful, boring, live nearby, walk, cycle, green) from 1,000 participants and their demographic data.
+
 ## Others
 
 - [Cityscapes](https://www.cityscapes-dataset.com/): Dataset for semantic urban scene understanding.
