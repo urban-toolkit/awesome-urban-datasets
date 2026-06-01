@@ -72,6 +72,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 - [Speed Camera Violations](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4/about_data): This dataset reflects the daily volume of violations that have occurred in Children's Safety Zones for each camera.
 - [Chicago Traffic Tracker - Congestion Estimates by Segments](https://data.cityofchicago.org/Transportation/Chicago-Traffic-Tracker-Congestion-Estimates-by-Se/n4j6-wkkf/about_data): This dataset contains the current estimated speed for about 1250 segments covering 300 miles of arterial roads.
 - [Traffic Crashes - Vision Zero Chicago Traffic Fatalities](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vision-Zero-Chicago-Traffic-Fatali/gzaz-isa6/about_data): Traffic fatalities within the City of Chicago that are included in Vision Zero Chicago (VZC) statistics.
+- [US Truck-Involved Fatal Crashes (FARS) 2018-2024](https://doi.org/10.5281/zenodo.20487070): 33,898 row-level fatal crashes involving medium/heavy commercial trucks across all 50 US states, 2018 through 2024. Filtered from NHTSA FARS National CSV using BODY_TYP codes 60-69. CC BY 4.0. Reproducible Python pipeline on [GitHub](https://github.com/MarvinBregiosa/vision-zero-fars) and mirrored on [HuggingFace](https://huggingface.co/datasets/MarvinBregiosa/us-truck-fatalities-fars-2018-2024).
 
 ### Noise & sound propagation
 
