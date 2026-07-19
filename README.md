@@ -119,6 +119,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 - [Toxic Release Inventory Facilities](https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools): The Toxics Release Inventory (TRI) Program tracks the industrial management of toxic chemicals that may cause harm to human health and the environment.
 - [CDPH Environmental Records Lookup Table](https://data.cityofchicago.org/Environment-Sustainable-Development/CDPH-Environmental-Records-Lookup-Table/a9u4-3dwb/about_data): This dataset serves as a lookup table to determine if environmental records exist in a Chicago Department of Public Health (CDPH) environmental dataset for a given address.
 - [Building Violations](https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr/about_data): Violations issued by the Department of Buildings from 2006 to the present.
+- [San Diego Renovation Permit & Cost Pulse](https://github.com/asafichaki/san-diego-renovation-permit-pulse): Reproducible, privacy-preserving 2026 aggregates of City of San Diego issued renovation-related projects by named scope and month, with downloadable CSV/JSON, source provenance, and interpretation caveats. Separate publisher planning cost ranges are included but are not joined to permit records or valuations.
 - [Energy Usage 2010](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp/about_data): Displays several units of energy consumption for households, businesses, and industries in the City of Chicago during 2010.
 - [Chicago Energy Benchmarking - 2020 Data Reported in 2021](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking-2020-Data-Reported-in-/ydbk-8hi6/about_data): The Chicago Building Energy Use Benchmarking Ordinance calls on existing municipal, commercial, and residential buildings larger than 50,000 square feet to track whole-building energy use, report to the City annually, and verify data accuracy every three years.
 
@@ -132,5 +133,4 @@ This list is constantly being updated. Contributions are greatly appreciated.
 ## Links
 
 This list includes datasets from other compilations, but it specifically focuses on urban data. Other lists include [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets), [Awesome Spatial Data](https://github.com/bchapuis/awesome-spatial-data), [Awesome Multimodal Urban Computing](https://github.com/yoshall/Awesome-Multimodal-Urban-Computing#taxonomy-and-summary-of-open-sourced-dataset), [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis?tab=readme-ov-file#datasets), [Free GIS Data](https://freegisdata.rtwilson.com/).
-
 
