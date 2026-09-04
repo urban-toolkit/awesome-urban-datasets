@@ -10,7 +10,7 @@ The main goal of this list is to offer a straightforward way to discover urban d
 
 This list is constantly being updated. Contributions are greatly appreciated.
 
-![Static Badge](https://img.shields.io/badge/No.%20datasets-53-brightgreen)
+![Static Badge](https://img.shields.io/badge/No.%20datasets-55-brightgreen)
 
 ***
 ## Table of Contents
@@ -47,6 +47,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 - [European Flood 2013 Dataset](https://github.com/cvjena/eu-flood-dataset): This repository contains metadata and annotations of a flood dataset used in the context of interactive content-based image retrieval.
 - [Flooding Complaints to 311](https://data.cityofchicago.org/Service-Requests/Flooding-Complaints-to-311/qrmr-m89j/about_data): 311 flooding complaints received by the City of Chicago.
 - [Smart Green Infrastructure Monitoring Sensors - Historical](https://data.cityofchicago.org/Environment-Sustainable-Development/Smart-Green-Infrastructure-Monitoring-Sensors-Hist/ggws-77ih/about_data): Results from a 2017-2018 project of city-installed sensors measuring water runoff from streets and sidewalks.
+- [Bangkok Monitored Flood Points near New Housing](https://baanscope.com/data): Distance from new residential developments to the road locations Bangkok's drainage department monitors for flooding, aggregated by district. CSV and JSON, CC BY 4.0.
 
 ## Human-driven phenomena
 
@@ -119,6 +120,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 - [Toxic Release Inventory Facilities](https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools): The Toxics Release Inventory (TRI) Program tracks the industrial management of toxic chemicals that may cause harm to human health and the environment.
 - [CDPH Environmental Records Lookup Table](https://data.cityofchicago.org/Environment-Sustainable-Development/CDPH-Environmental-Records-Lookup-Table/a9u4-3dwb/about_data): This dataset serves as a lookup table to determine if environmental records exist in a Chicago Department of Public Health (CDPH) environmental dataset for a given address.
 - [Building Violations](https://data.cityofchicago.org/Buildings/Building-Violations/22u3-xenr/about_data): Violations issued by the Department of Buildings from 2006 to the present.
+- [Bangkok City-Plan Zoning and Housing Pipeline](https://baanscope.com/data): Floor area ratio and open space ratio in force per land-use class where new residential projects are being built, with what the March 2026 draft plan would change, plus environmental filings approved and still recorded as unbuilt. CSV and JSON, CC BY 4.0.
 - [Energy Usage 2010](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp/about_data): Displays several units of energy consumption for households, businesses, and industries in the City of Chicago during 2010.
 - [Chicago Energy Benchmarking - 2020 Data Reported in 2021](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking-2020-Data-Reported-in-/ydbk-8hi6/about_data): The Chicago Building Energy Use Benchmarking Ordinance calls on existing municipal, commercial, and residential buildings larger than 50,000 square feet to track whole-building energy use, report to the City annually, and verify data accuracy every three years.
 
