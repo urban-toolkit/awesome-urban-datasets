@@ -95,6 +95,7 @@ This list is constantly being updated. Contributions are greatly appreciated.
 ### Service requests
 - [NYC 311 Service Requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data): Requests to the city's complaint service from 2010 to the present.
 - [Chicago 311 Service Requests](https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy): 311 Service Requests received by the City of Chicago.
+- [The Trade Economy Index](https://tradesindex.org) - Open dataset of 241,694 active municipal building permits ($76.1B construction value across 29 major US cities) and 9,084,887 commercial buildings across 366 MSAs and 51 states/DC ([GitHub CSV/JSON](https://github.com/levelcfo/trade-economy-index-data) | [Building Value Model](https://levelcfo.com/tools/building-revenue-calculator/)).
 
 ## Built & natural environment
 
